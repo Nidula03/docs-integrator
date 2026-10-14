@@ -9,7 +9,7 @@ slug: /deploy-and-run/deploy-to-wso2-cloud
 
 WSO2 Cloud is a fully managed platform that builds and runs your integrations from a Git repository. There are three ways to get your integrations onto WSO2 Cloud, depending on where your work lives.
 
-These steps are the same whether your organization runs on the WSO2 Cloud data plane or a [private data plane](../deploy-on-private-data-plane/deploy-on-private-data-plane.md). The data plane determines where your integrations run, not how you deploy them.
+These steps are the same whether your organization runs on the WSO2 Cloud data plane or a [private data plane](../deploy-on-private-data-plane/deploy-on-private-data-plane.md). The data plane determines where your integrations run, not how you deploy them — see [Data plane models](../data-planes.md) for the difference.
 
 ## Deploy
 
