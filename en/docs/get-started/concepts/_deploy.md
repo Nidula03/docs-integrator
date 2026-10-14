@@ -3,7 +3,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Deploy and Run
 
-The concepts that apply once an integration leaves the editor. Deployment targets, pipelines, and the managed cloud runtime are covered in [Deploy and Run](../../deploy-and-run/deploy-and-run.md).
+The concepts that apply once an integration leaves the editor. Deployment targets, pipelines, and the managed cloud runtime are covered in [Deploy and Secure](../../deploy-and-run/deploy-and-run.md).
 
 ### Deployment models
 

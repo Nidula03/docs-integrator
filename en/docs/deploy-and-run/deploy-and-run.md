@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-title: Deploy and Run
+title: Deploy and Secure
 description: Deploy WSO2 Integrator projects to WSO2 Cloud and secure integrations in production.
 keywords: [wso2 integrator, wso2 cloud, deploy, security, overview]
 slug: /deploy-and-run
@@ -8,7 +8,7 @@ hide_table_of_contents: true
 wide_layout: true
 ---
 
-# Deploy and Run
+# Deploy and Secure
 
 Once your integration is ready, this section covers how to ship it to WSO2 Cloud and secure it in production.
 
