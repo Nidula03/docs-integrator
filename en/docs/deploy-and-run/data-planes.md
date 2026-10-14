@@ -1,12 +1,12 @@
 ---
 sidebar_position: 15
-title: Data plane models
+title: Data Plane Models
 description: Compare the WSO2 Cloud data plane and private data planes to choose where your integrations run.
 keywords: [wso2 cloud, data plane, cloud data plane, cdp, private data plane, pdp, deployment model]
 slug: /deploy-and-run/data-planes
 ---
 
-# Data plane models
+# Data Plane Models
 
 A **data plane** is the infrastructure your integrations actually run on. All runtime traffic is restricted to it, which keeps user data contained within its boundary. The **control plane** is the operations layer where deploy, manage, and observe actions happen; it orchestrates the data plane but does not run your integrations itself.
 
@@ -45,7 +45,7 @@ A private data plane is the right choice when you:
 Otherwise the WSO2 Cloud data plane is the faster path: there is no infrastructure to provision, and WSO2 operates it for you.
 
 :::note
-A private data plane requires infrastructure you provide and maintain — an upstream-compatible Kubernetes cluster, a container registry, a key vault, and a logging service — along with a decision about how much of its operation you want to own. See [Set up a private data plane](deploy-on-private-data-plane/deploy-on-private-data-plane.md) for the full requirements.
+A private data plane requires infrastructure you provide and maintain — an upstream-compatible Kubernetes cluster, a container registry, a key vault, and a logging service — along with a decision about how much of its operation you want to own. See [Set up a Private Data Plane](deploy-on-private-data-plane/deploy-on-private-data-plane.md) for the full requirements.
 :::
 
 ## What stays the same
@@ -59,5 +59,5 @@ The data plane model does not change the development or delivery experience. On 
 
 ## What's next
 
-- [Deploy your integration](deploy-to-wso2-cloud/deploy-to-wso2-cloud.md) — Get an integration onto WSO2 Cloud, on either data plane model.
-- [Set up a private data plane](deploy-on-private-data-plane/deploy-on-private-data-plane.md) — Infrastructure requirements, system components, and control plane connectivity.
+- [Deploy Your Integration](deploy-to-wso2-cloud/deploy-to-wso2-cloud.md) — Get an integration onto WSO2 Cloud, on either data plane model.
+- [Set up a Private Data Plane](deploy-on-private-data-plane/deploy-on-private-data-plane.md) — Infrastructure requirements, system components, and control plane connectivity.

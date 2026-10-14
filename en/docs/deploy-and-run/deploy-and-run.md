@@ -12,7 +12,7 @@ wide_layout: true
 
 Once your integration is ready, this section covers how to ship it to WSO2 Cloud and secure it in production.
 
-WSO2 Cloud runs your integrations on one of two data plane models: the shared **WSO2 Cloud data plane (CDP)** operated by WSO2, or a **private data plane (PDP)** dedicated to your organization. Deploying works the same way on both — the data plane determines where your integrations run, not how you deploy them. Setting up a private data plane is a separate, one-time infrastructure task. See [Data plane models](/deploy-and-run/data-planes) to compare the two.
+WSO2 Cloud runs your integrations on one of two data plane models: the shared **WSO2 Cloud data plane (CDP)** operated by WSO2, or a **private data plane (PDP)** dedicated to your organization. Deploying works the same way on both — the data plane determines where your integrations run, not how you deploy them. Setting up a private data plane is a separate, one-time infrastructure task. See [Data Plane Models](/deploy-and-run/data-planes) to compare the two.
 
 <PaletteGrid>
 
@@ -28,7 +28,7 @@ WSO2 Cloud runs your integrations on one of two data plane models: the shared **
 </PaletteCard>
 
 <PaletteCard icon="foundations" href="/deploy-and-run/data-planes">
-  <h3 class="palette-card-title">Data plane models</h3>
+  <h3 class="palette-card-title">Data Plane Models</h3>
   <ul class="palette-card-list">
     <li>Compare the WSO2 Cloud data plane and private data planes</li>
     <li>When to choose a private data plane</li>
